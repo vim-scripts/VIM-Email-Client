@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1346
+
+This email client contains two python scripts: fetch.py and send.py that handle the send&receive process, and a vim script called "email.vim" that handles the vim binding.
+
+see http://www.ee.bgu.ac.il/~elentok/os/vim-mail/ for a tutorial and installation instructions.
+
+
